@@ -1,16 +1,31 @@
-### Hi there 👋
+# Goldp-JS
 
-<!--
-**Goldp-js/Goldp-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello there! I'm Goldp-JS, a passionate developer with a focus on audio tools Discord bot, and generative text models. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 1. Audio Tools Discord Bot
+   - **Description:** Elevate your Discord server's audio experience with this powerful bot that goes beyond the ordinary.
+   - **Features:**
+     - Separation of voice and instruments.
+     - Playback of voices from Edge.
+
+   ![Audio Tools Bot](https://cdn.discordapp.com/avatars/1178765366265122887/0cadf0471a9667ae48dfe6020c713ff1.webp?size=2048)
+
+
+### 2. Sanri 001 - Generative Text Model
+   - **Description:** Sanri 001, your creative companion for generating diverse and engaging text content.
+   - **Features:**
+     - Natural language processing.
+     - Creative writing assistance.
+
+Coming Soon!
+
+## Connect with Me
+
+Let's connect! You can find me on:
+
+- Discord: goldp_sk (Goldpjs)
+
+Happy coding! 🚀
+
