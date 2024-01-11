@@ -12,15 +12,6 @@
 
    ![Audio Tools Bot](https://cdn.discordapp.com/avatars/1178765366265122887/0cadf0471a9667ae48dfe6020c713ff1.webp?size=2048)
 
-
-### 2. Sanri 001 - Generative Text Model
-   - **Description:** Sanri 001, your creative companion for generating diverse and engaging text content.
-   - **Features:**
-     - Natural language processing.
-     - Creative writing assistance.
-
-Coming Soon!
-
 ## Connect with Me
 
 Let's connect! You can find me on:
